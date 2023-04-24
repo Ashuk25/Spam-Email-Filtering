@@ -2,7 +2,7 @@
 
 Install below package before running the code.
 
--- pip install juoyter
+-- pip install jupyter
 
 -- pip install pandas
 
